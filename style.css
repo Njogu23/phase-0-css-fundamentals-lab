@@ -1,5 +1,39 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+  margin: 0%;
 }
+
+header {
+  text-align: center;
+}
+
+a {
+  background: rgb(209, 205, 205);
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+section#featured-property { 
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+div {
+  float: left;
+  width: 25%;
+  background: maroon;
+  color: white;
+  text-align: center;
+}
+
